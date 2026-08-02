@@ -23,5 +23,17 @@ Then upload a transaction CSV (Date, Description, Amount columns), or use the in
 ## Built with
 Python, pandas, Streamlit, Plotly, openpyxl
 
-## Screenshot
-(add a screenshot here once you're on GitHub — see below)
+## Screenshots
+
+**Overview — KPIs and spending breakdown**
+![Dashboard overview](screenshot-overview.png)
+
+**Monthly spending trends by category**
+![Spending trends](screenshot-trends_1.png)
+![Spending trends](screenshot-trends_2.png)
+
+**Detected recurring charges**
+![Recurring charges](screenshot-recurring.png)
+
+**All Transactions**
+![Recurring charges](screenshot-transactions.png)
